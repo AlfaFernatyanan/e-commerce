@@ -1,0 +1,10 @@
+.categories{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    
+}
+a{
+    text-decoration: none;
+    color:black ;
+}

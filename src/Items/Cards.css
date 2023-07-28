@@ -1,0 +1,6 @@
+.cards {
+  background-color: white;
+  display: grid;
+  grid-template-columns: repeat(3, auto);
+  gap: 50px 20px;
+}

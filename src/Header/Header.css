@@ -1,0 +1,22 @@
+.header {
+  display: flex;
+  height: 80px;
+  padding: 10px 50px;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #f3f3f3;
+}
+
+.title {
+  color: black;
+}
+.login {
+  display: flex;
+  align-items: flex-end;
+  flex-direction: row;
+  gap: 20px;
+}
+.small-icon {
+  width: 15px;
+  height: 15px;
+}

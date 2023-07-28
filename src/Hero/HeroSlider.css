@@ -1,0 +1,18 @@
+.glasses {
+  width: 400px;
+  flex-shrink: 0;
+  background: url(<path-to-image>), #f3f3f3 50% / cover no-repeat;
+  padding-bottom: 50px;
+}
+
+.arrow-left-right {
+  display: inline-flex;
+  align-items: center;
+  gap: 15px;
+  background: #f3f3f3;
+}
+.slider {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

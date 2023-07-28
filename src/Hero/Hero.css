@@ -1,0 +1,8 @@
+.hero {
+  display: flex;
+  background: #f3f3f3;
+  height: auto;
+  padding: 97px 52px;
+  align-items: center;
+  justify-content: space-between;
+}

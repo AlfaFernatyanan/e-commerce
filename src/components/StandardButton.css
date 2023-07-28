@@ -1,0 +1,6 @@
+.standard-button {
+  display: flex;
+  padding: 10px 52px;
+  align-items: flex-start;
+  border: 2px solid #000;
+}
